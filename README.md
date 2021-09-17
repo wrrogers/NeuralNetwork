@@ -15,12 +15,10 @@
 * It can be used to create a basic neural network with any number of layers with any size of neurons.
 * Layers and neurons are added by simply using .add( ) while inluding the number of neurons.
 * The code is first initialized by using .initialize( ) and then can be run in iterations using the .epoch( ) method.
-* Changes can be made on the fly similar to PyTorch.
 
 ### TO DO LIST ###
+
 * Add the use of biases
 * Adding new optimizers
 * Adding alternative activation functions
-* Adding more advanced loss functions
-* Add support to catigorical classification
-* Create an installation
+* Adding more loss functions
